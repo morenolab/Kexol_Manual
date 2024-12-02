@@ -129,4 +129,6 @@ Failure to comply with this clause will result in corresponding observations and
 
 - Sofía Ivonne Vieyra Sánchez [VieyraS](https://github.com/VieyraS)
 - Daniela Orozco Pérez [dorozco1504](https://github.com/dorozco1504)
+- Jose Antonio Corona-Gomez [Josian-Corona](https://github.com/Josian-Corona)
+- Maria Fernanda Elias Navarro [fherelias](https://github.com/fherelias)
 
