@@ -132,3 +132,5 @@ Failure to comply with this clause will result in corresponding observations and
 - Jose Antonio Corona-Gomez [Josian-Corona](https://github.com/Josian-Corona)
 - Carmina Barberena Jonas [CarBarJon](https://github.com/CarBarJon)
 
+- Ram González Buenfil [RamGonzalez](https://github.com/RamGonzalez)
+
